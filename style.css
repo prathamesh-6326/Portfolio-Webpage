@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(114, 195, 227);
+    text-align: center;
+}
+
+
+.container {
+    width: 100%;
+}
+
+.card {
+    max-width: 100%;
+    /* controls the width */
+    margin: 20px auto;
+    /* THIS centers the div */
+    padding: 20px;
+    background-color: rgb(119, 200, 211);
+    border-radius: 10px;
+}
